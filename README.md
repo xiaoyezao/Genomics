@@ -1,5 +1,5 @@
 =======
-# Introduction to Bacterial Genomics
+# Introduction to Plant Genomics
 
 ## A Workshop Planned to Take Place at Noguchi Memorial Institute for Medical Research - University of Ghana in January 2023
 
